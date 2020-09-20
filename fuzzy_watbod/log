@@ -1,0 +1,1 @@
+202008031025   0     0     0varun D:\Conservt\fuzzy_watbod = 1.0 / (1.0 + 0.100000 * POW(FLOAT(D:\Conservt\recl_watbod) - 3.000000 , 2))

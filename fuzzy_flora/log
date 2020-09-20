@@ -1,0 +1,1 @@
+202008031811   0     0     0varun D:\Conservt\fuzzy_flora = 1.0 / (1.0 + 0.100000 * POW(FLOAT(D:\Conservt\recl_flora) - 3.000000 , 2))

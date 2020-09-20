@@ -1,0 +1,1 @@
+202008031815   0     0     0varun D:\Conservt\fuzzy_eco = 1.0 / (1.0 + 0.100000 * POW(FLOAT(D:\Conservt\recl_eco) - 3.000000 , 2))

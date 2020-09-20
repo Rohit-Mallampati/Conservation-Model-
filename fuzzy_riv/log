@@ -1,0 +1,1 @@
+202008031025   0     0     0varun D:\Conservt\fuzzy_riv = 1.0 / (1.0 + 0.100000 * POW(FLOAT(D:\Conservt\recl_riv) - 3.000000 , 2))
